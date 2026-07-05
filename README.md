@@ -1,7 +1,5 @@
 [SDEZ160汉化](https://github.com/pikayan69/SDEZ1.60.ZH)|[音击汉化](https://gitea.tendokyu.moe/Chilor/mu3-chn-psds)
----
-汉化教程已发布~
-https://blog.csdn.net/wdjjsn/article/details/140917049
+
 ---
 
 ## 同时也适用于几乎所有的unity引擎游戏
